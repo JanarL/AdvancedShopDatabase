@@ -13,7 +13,6 @@ namespace ShopDatabaseAdvanced
 	{
 		static void Main(string[] args)
 		{
-
 			using (var db = new AdvancedShopDatabaseContext())
 			{
                 //1. Ask client's name and greet him or her by name.
